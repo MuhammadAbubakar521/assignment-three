@@ -1,0 +1,432 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head-buttons a {
+    padding: 2px ;
+}
+a{
+    text-decoration: none;
+}
+.home{
+    display:inline-block ;
+    margin-left: 300px;
+
+}
+.about{
+    display: inline-block;
+    margin-left: 20px;
+
+}
+.Services{
+    display: inline-block;
+    margin-left: 30px;
+
+}
+.project{
+    display: inline-block;
+    margin-left: 30px;
+
+}
+.Media{
+    display: inline-block;
+    margin-left: 30px;
+
+}
+.News{
+    display: inline-block;
+    margin-left: 40px;
+
+}
+.donation{
+    display: inline-block;
+    margin-left: 50px;
+
+}  
+.header{
+        background-color:#fcfcfc;
+}
+
+   
+
+.second{
+    min-height: 70px;
+    max-height: 300px;
+    background-color:#fcfcfc;
+    
+}
+.bar{
+display:inline-block;
+}
+
+#navb{
+
+    display: flex;
+    flex-wrap: wrap;
+    border: none;
+    color: black;
+    display: inline-block;
+    font-weight: bold;
+}
+
+
+#navb:hover{
+    color: white;
+    border-radius: 40px !important;
+}
+#logo{
+    
+    width: 180px;
+    display: inline-block;
+    margin-right: 240px;
+
+}
+
+
+.carousel-indicators{
+    max-height: 20px;
+    min-height: 1px;
+}
+.carousel-inner{
+    
+    min-height: 100px;
+    max-height: 370px;
+    width: 100%;
+}
+#img3{
+height: 400px;
+}
+
+
+#img1{
+    height: 400px;
+}
+.slide{
+    background-color: #316dc3;
+}
+.news{
+    margin-top: 15px;
+
+}
+.color{
+    color:lightgreen;
+}
+.line{
+    color: white;
+    display: inline-block;
+}
+.intro{
+    margin-top: 20px;
+    text-align: center;
+   color:#316dc3 ; 
+font-weight: bold;
+
+   font-family: 'Times New Roman', Times, serif;
+}
+.section{
+    background-color: #f7f8fa;
+    
+}
+.firsth2{
+color: green;    
+}
+.intrologo{
+margin: 0 auto;
+}
+.icon{
+width: 3%;
+}
+#syl{
+    margin-left: 45%;
+    color: green;
+    font-weight: bold;
+
+}
+#syllo{
+    color: green;
+    font-weight: bold;
+
+}
+.intropara{
+    text-align: justify !important;
+    font-size: 15px;
+    max-width: 600px !important;
+    min-width: 100px;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    color: rgba(0, 0, 0, 0.548);
+visibility: visible;
+}
+.box{
+    background-color: rgba(0, 0, 255, 0.774);
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box1{
+   
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 50px;
+    margin-top: 50px;
+    padding-bottom: 50px;
+    flex-direction: row;
+    margin-left: 20px;
+}
+.col1{
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+
+
+#pic{
+    width: 40px   
+}
+.amount,.text{
+    color: white;
+    font-weight: bold;
+}
+.amount{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    }
+.text{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode' ;
+    font-size: 20px;
+
+}
+.green{
+    color: lightgreen;
+}
+.foodpic{
+    margin-left: 40px;
+ 
+}
+    
+
+.familypic{
+    margin-left: 60px;
+}
+.medicalpic{
+    margin-left: 60px;
+
+}
+.educationpic{
+    margin-left: 60px;
+ 
+}
+
+
+.we{
+
+
+margin-top: 20px;
+text-align: center;
+color:#316dc3 ; 
+font-family: 'Times New Roman', Times, serif;
+font-weight: bold;
+
+}
+
+
+.what{
+    padding-top: 20px;
+}
+
+
+
+
+
+.onlinebox{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding-top: 70px;
+    justify-content: space-around;
+
+}
+.shadow{
+    width: 360px;
+}
+#boxpic{
+    margin-left:110px ;
+}
+
+h3{
+    font-family: 'Times New Roman', Times, serif;
+text-align: center;
+color:#316dc3 ;
+font-weight: bold;
+}
+.project1{
+    background-color: white;
+}
+.Mission{
+    display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: space-around;
+}
+.come{
+    width: 750px;
+    float: right;;
+}
+.hepabox{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.hepa{
+    background-color:  #fcfcfc !important;
+    width: 330px;
+    height: 60px  ;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-radius: 5;
+border: 1px solid #fcfcfc ;    
+}
+h4{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 18px;
+    padding-top: 14px;
+    padding-left: 27px;
+    color:#316dc3;
+}
+.newnews{
+    width: 360px;
+
+}
+
+
+
+.news1{
+    border: none;
+}
+.event{
+    
+    font-size: 28px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left !important;
+    
+}
+.news{
+    border: none;
+}
+.newspara{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+.height{
+    height: 200px;
+}    
+.lastpics{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+#pics   {
+    width: 20% !important ;
+    margin-top: 20px;
+    margin-bottom: 140px ;
+}
+.useful{
+    width: 360px;
+}
+.use{
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+padding-top: 70px;
+}
+
+.connect{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+padding-top: 70px;
+font-size: 18px;
+}
+.lastdiv{
+    width: 260px !important;
+}
+.nav{
+    color: white;
+    line-height: 145%;
+    font-size: 15px;
+    padding-top: 70px;
+}
+.detail{
+    width: 350px;
+}
+.lastline{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+.footer{
+    background-color: black;
+
+}
+
+.fb, .tw, .in, .you  {
+    color:white;
+    background-color: blue;
+    border: 0px solid black;
+    border-radius: 16px;
+    padding: 8px ;
+
+}
+.fb:hover{
+ color: blue;
+ background-color: white;
+}
+
+
+
+.you:hover{
+    color: blue;
+    background-color: white;
+   }
+
+
+   
+.in:hover{
+    color: blue;
+    background-color: white;
+   }
+
+   
+.tw:hover{
+    color: blue;
+    background-color: white;
+   }
+   
+.copy{
+background-color: blue;
+display: flex;
+align-items:center;
+color: white;
+}
+.saylani welfare{
+    font-size: 12px;
+    padding-top: 8px;
+}
+.top{
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 10px;
+    right: 30px;
+}
+
